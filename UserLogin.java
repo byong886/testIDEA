@@ -1,3 +1,3 @@
-public vid testUser(){
-  System.out.pringtln("name");
+public void testUser(String name){
+  System.out.pringtln("name="+name);
 }
